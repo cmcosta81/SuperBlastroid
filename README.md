@@ -1,2 +1,0 @@
-# SuperBlastroid
- fun shooty shoot
